@@ -1,7 +1,5 @@
 ## Hi, I'm Sonny Taylor 👋
 
-- 🌱 I’m currently learning Rust and Javascript
-
 ##
 
 [![Sonny's github stats](https://github-readme-stats.vercel.app/api?username=SonnyTaylor&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
