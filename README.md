@@ -1,4 +1,4 @@
-## Hi, I'm Sonny Taylor 👋
+## Hi, I'm Sonny.
 
 ##
 
