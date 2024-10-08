@@ -1,7 +1,3 @@
-## Hi, I'm Sonny.
-
-##
-
 [![Sonny's github stats](https://github-readme-stats.vercel.app/api?username=SonnyTaylor&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonnyTaylor&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
